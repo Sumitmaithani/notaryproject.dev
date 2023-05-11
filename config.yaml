@@ -164,6 +164,7 @@ params:
     https://github.com/cncf/artwork/raw/master/projects/notary/horizontal/black/notary-horizontal-black.png
 
 mediaTypes:
+
   text/netlify: {}
 
 outputFormats:
